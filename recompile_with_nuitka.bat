@@ -1,0 +1,1 @@
+python -m nuitka --follow-imports --windows-disable-console "%~dp0merge_subtitles.pyw"

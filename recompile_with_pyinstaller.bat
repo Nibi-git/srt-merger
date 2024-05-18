@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console  "%~dp0merge_subtitles.pyw"
